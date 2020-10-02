@@ -1,0 +1,18 @@
+create-react-app
+  Já vem todo pré configurado para projetos React
+
+react-router-dom
+  lhe dar com rotas no react
+  Componente: Switch garante que apenas uma rota seja exibida.
+
+styled-components
+  Isolar estilizações css
+
+polished
+  biblioteca para trabalhar com cores
+
+react-icons
+  icones
+
+axios
+  consumir api
